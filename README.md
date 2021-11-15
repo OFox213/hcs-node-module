@@ -7,6 +7,7 @@ https://github.com/kimcore/hcs.js 여기에 app.js 파일 추가하면 됩니다
 별거 없습니다. 폴더에 넣으시고 
 > npm install express
 익스프레스를 설치해줍니다.
+
 > node app.js
 app.js 를 실행시키고
 
